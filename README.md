@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=1060&t=st=1695383510~exp=1695384110~hmac=055fbad34cb02d1955febd1e9f8bc69ecf7e3b302a332555b2ef5feb7d79ae29)
+![MasterHead](https://wallpaperaccess.com/full/3098934.png)
 
 <h1 align="center">Hi 👋, I'm Nazil İrşat Peker</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
